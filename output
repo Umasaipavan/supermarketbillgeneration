@@ -1,6 +1,6 @@
 Sample Usage
 Input:
-Welcome to Balu's Super Market !
+Welcome to usp's Super Market !
 Enter your name Sir :Suresh
 Press 1 To buy or 2 to Exit:1
 
@@ -28,7 +28,7 @@ press '1' to buy another item or '2' get bill 2
 Output (Terminal):
 
 Bill for John Doe:
-************************* Balu's super market *************************
+************************* usp's super market *************************
 ---------------------------- Invoice Bill ----------------------------
 customer name: SURESH
 Sno       Item name       Quantity       Price
